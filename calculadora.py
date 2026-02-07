@@ -23,4 +23,4 @@ while True:
         print("Obrigado, saindo...")
         break
     else:
-        print("error error error")
+        print("Opção inválida, tente novamente")
